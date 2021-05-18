@@ -1,0 +1,31 @@
+* {
+    margin: 0 auto;
+    padding: 0;
+    font-size: 90pt;
+    font-weight: 900;
+    color: rgb(158, 245, 245);
+    font-family: sans-serif;
+}
+
+body {
+    background-image: url('../img/blue-bokeh-sparkles-wallpaper-4096x3072_30.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+div {
+    margin: 250px 0 0 0;
+    display: flex;
+}
+
+section {
+    display: flex;
+    width: 50%;
+}
+
+h1 {
+    text-shadow:
+        0px 0px 80px black,
+        0px 0px 30px black,
+        0px 0px 30px black;
+}
